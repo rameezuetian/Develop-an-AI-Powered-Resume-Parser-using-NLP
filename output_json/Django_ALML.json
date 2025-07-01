@@ -1,0 +1,25 @@
+{
+    "name": "Muhammad Rameez",
+    "email": "m.ramez.dev@gmail.com",
+    "phone": "+92-343-6455142",
+    "skills": [
+        "sql",
+        "python",
+        "docker",
+        "pytorch",
+        "machine learning",
+        "c++",
+        "java",
+        "linux",
+        "deep learning",
+        "tensorflow",
+        "git"
+    ],
+    "experience": [
+        {
+            "title": "Sep 2022",
+            "company": "Jun",
+            "years": null
+        }
+    ]
+}
